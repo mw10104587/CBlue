@@ -1,0 +1,35 @@
+Do you have any code samples that you put on github or elsewhere?
+  I have a github, https://github.com/mw10104587.
+
+Have you used the Facebook Graph API before?
+  I tried it once, and I made an app that post on others wall on their birthday.But I barely remember anything.
+
+Have you done test-driven development before?
+  No, I haven't.
+
+If you have developed Android/iOS apps before, please share links (URLs) to your apps.
+  http://fanxin.tv/mobile
+  I was there a long time ago, I think most of the functions are updated.
+  please find others in my resume.
+
+Have you ever developed any app or website just for fun?
+  Usually for projects, but sometimes for my own need. I once searched and didn't find a vocabulary app I liked, therefore I programmed my own one.
+
+Describe a difficult technical challenge you ran into in a project, and how you resolved it.
+  From a design aspect, once my boss wanted me to make an animation like folding a map. I tried pretty hard but in vain. While chatting with the designer, he told me he was able to make a shadow mask, by putting the mask on the mapview, and by shrinking the mapview, it gives people an illusion of folding the mask, it was so cool.
+
+What aspect of previous job(s) did you enjoy the most?
+  While working in fanxin, it was my first time to cooperate with people elder than me. The way to communicate, sometimes questioning not to be too offensive without losing precision. Also the first time co-working with a designer was a cool experience.
+
+What makes you interested to join our team?
+  I often see your team having fun in different Hackathon. I like teams with passion and likes to do brainstorming. I also would like to join an international team. In fact, during summer, I saw your team recruiting people who speak French, Spanish, Germany and several other languages.
+
+We are an international team, so it will be necessary to communicate in English.  Have you had experience speaking English in a work situation?
+ During exchange student in France, I had a project with a group of French, we spoke both English and French to communicate. We made simple program for NAO the robot. I was also the founder of an internation party for exchange students, during the preperation, I organized with Mexicans, Polish, Spanish people in English.
+
+What product suggestions do you have for PicCollage?  
+  As a whole I think PicCollage is a complete and great app, I like it very much. There are only some small suggestions. 
+  1. For example while adding text on the collage, I think the background color of the input interface can be made with a lower alpha value, so that people can see through and see the results directly, because sometimes it maybe blocked.
+  2. I found that the strong PicCollage programming team has implemented a great face detection, when I use a template provided by the app, they can put the faces in the middle of the photo, but when sometimes, I change the template, the advantage disappeared. I think it would be great if it could be done again.
+  3. When providing templates with too much photos, they would reduce into small grids at the corner,but they would overlay with the "return to my collages" button. Being returned while adjusting the photos sometimes make people unhappy. Providing these special templates with some hiding navigation button sounds like a tryable solution. Also, fitting the photos to the grid size should make UX better. Using both finger to pin in such a small region seems to be hard, especially when I have a fat finger problem! XD
+  But in fact, I really think it's hard to be picky about PicCollage.
