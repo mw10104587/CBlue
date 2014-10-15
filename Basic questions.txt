@@ -11,6 +11,7 @@ If you have developed Android/iOS apps before, please share links (URLs) to your
   http://fanxin.tv/mobile
   I was there a long time ago, I think most of the functions are updated.
   please find others in my resume.
+  https://www.dropbox.com/s/hsibt0s018g0uy2/CV%20-%20Cardinal%20Blue.pdf?dl=0
 
 Have you ever developed any app or website just for fun?
   Usually for projects, but sometimes for my own need. I once searched and didn't find a vocabulary app I liked, therefore I programmed my own one.
